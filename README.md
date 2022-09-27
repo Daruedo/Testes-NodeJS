@@ -167,7 +167,6 @@ A API expõe os seguintes *endpoints* a partir da *base URL* `localhost:3000`:
 
 ## Conteúdo
 
-___
 ### 01.
 
 - O porquê de testamos aplicações e sistemas, isto é, para aumentar a confiabilidade e qualidade do código
